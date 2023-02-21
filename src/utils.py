@@ -12,6 +12,8 @@ DATA_COLL = "collection_data"
 KEY = "key"
 VAL = "val"
 
+class DataError(Exception):
+    pass
 
 def get_client():
     return pymongo.MongoClient(

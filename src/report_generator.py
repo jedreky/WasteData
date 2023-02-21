@@ -4,6 +4,7 @@ import time
 from src.utils import (
     get_db,
     get_schema,
+    DataError,
     DATA_COLL,
     METADATA_COLL,
     KEY,
@@ -30,8 +31,7 @@ def get_value(x, fields):
     for field in fields:
         if field in x:
             return x[field]
-    breakpoint()
-    return 0
+    raise DataError(f"None of the expecte fields found: {x}, {fields}")
 
 
 def get_total_tonnage(x):

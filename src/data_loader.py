@@ -8,6 +8,7 @@ from calendar import month_abbr
 from src.utils import (
     get_db,
     get_schema,
+    DataError,
     DATA_COLL,
     METADATA_COLL,
     DATA_FOLDER,
@@ -16,10 +17,6 @@ from src.utils import (
 )
 
 MAX_COL = 15
-
-
-class DataError(Exception):
-    pass
 
 
 def get_year_and_quarter(period):
@@ -142,7 +139,6 @@ def list_to_dict(records_list, col_labels):
                 }
             return ret
     else:
-        breakpoint()
         raise DataError(f"Unexpected row format: {records_list}")
 
 
