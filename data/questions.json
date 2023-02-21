@@ -1,0 +1,170 @@
+[
+  [
+    "Q001",
+    "Authority Data:  Note this data is prefilled."
+  ],
+  [
+    "Q002",
+    "Authority Data:  Note this data is prefilled."
+  ],
+  [
+    "Q004",
+    "How many households were provided with the following methods of residual waste containment?"
+  ],
+  [
+    "Q005",
+    "How many households were offered the following containment methods for dry recyclable collection?"
+  ],
+  [
+    "Q006",
+    "How many households were offered  the following containment methods for green waste / organics collection?"
+  ],
+  [
+    "Q007",
+    "How many households are served by a kerbside collection of :"
+  ],
+  [
+    "Q010",
+    "Tonnes of material collected through kerbside schemes from household sources by LA or its contractors"
+  ],
+  [
+    "Q011",
+    "Tonnes of material collected  from commercial, industrial or other non household sources by LA or its contractors"
+  ],
+  [
+    "Q012",
+    "Tonnes of material collected  through kerbside schemes by non contracted voluntary/community sector from household sources"
+  ],
+  [
+    "Q013",
+    "Total no. of Civic Amenity Sites by District"
+  ],
+  [
+    "Q014",
+    "Tonnes of material collected for recycling/reuse at CA Sites operated by LA or its contractors"
+  ],
+  [
+    "Q015",
+    "Total no. of Civic Amenity Sites operated by LA or its contractors"
+  ],
+  [
+    "Q015a",
+    "Total no. of Bring Sites operated by LA or its contractors"
+  ],
+  [
+    "Q016",
+    "Tonnes of material collected for recycling/reuse at CA Sites operated by LA or its contractors"
+  ],
+  [
+    "Q017",
+    "Tonnes of material collected at bring sites operated by LA or its contractors"
+  ],
+  [
+    "Q018",
+    "Composting / Recycling tonnage collected through any other recycling schemes.  Please note that it is optional to report how much of the total tonnage is from household sources - please see Help for further information."
+  ],
+  [
+    "Q019",
+    "What is the final destination of  your materials sent for recycling?"
+  ],
+  [
+    "Q019a",
+    "What is the final destination of your materials recovered from the residual stream and sent for recycling?"
+  ],
+  [
+    "Q023",
+    "Please provide details of other waste collected for disposal.  (The destination of the residual is required for authorities in Wales only.)"
+  ],
+  [
+    "Q024",
+    "How many reported fly-tipping incidents were there in your local authority?"
+  ],
+  [
+    "Q025",
+    "How many abandoned vehicles were disposed of by your authority and what percentage was recycled?"
+  ],
+  [
+    "Q026",
+    "How many fridges/freezers were disposed of by your authority?"
+  ],
+  [
+    "Q033",
+    "Tonnes of materials collected at bring sites operated by voluntary / community sector"
+  ],
+  [
+    "Q034",
+    "Tonnes of material collected for recycling at street recycling bins"
+  ],
+  [
+    "Q035",
+    "What is the final destination of your materials sent for reuse?"
+  ],
+  [
+    "Q051",
+    "How many tonnes of waste were disposed of in Inert Landfill?"
+  ],
+  [
+    "Q052",
+    "How many tonnes of waste were disposed of in Non-Hazardous Landfill?"
+  ],
+  [
+    "Q053",
+    "How many tonnes of waste were disposed of in Hazardous Landfill?"
+  ],
+  [
+    "Q054",
+    "How many tonnes of waste were disposed of by Incineration with Energy Recovery?"
+  ],
+  [
+    "Q055",
+    "How many tonnes of waste were disposed of by Incineration without Energy Recovery?"
+  ],
+  [
+    "Q056",
+    "How many tonnes of waste were sent to RDF, Autoclave, MHT or similar treatment?"
+  ],
+  [
+    "Q057",
+    "How many tonnes of waste were disposed of by Advanced Thermal Treatment (e.g. Pyrolosis & Gasification)?"
+  ],
+  [
+    "Q058",
+    "How many tonnes of recyclables were sent to a Materials Recovery Facility?"
+  ],
+  [
+    "Q059",
+    "How many tonnes of waste were sent for Mechanical Biological Treatment (MBT)?"
+  ],
+  [
+    "Q060",
+    "How many tonnes of waste were sent for Anaerobic or Aerobic Digestion (AD)? - whole waste not source segregated organics"
+  ],
+  [
+    "Q061",
+    "How many tonnes of organic waste were sent for Anaerobic or Aerobic Digestion (AD)?"
+  ],
+  [
+    "Q062",
+    "How many tonnes of organic waste were sent for In-Vessel Composting?"
+  ],
+  [
+    "Q063",
+    "How many tonnes of organic waste were sent for Windrow or  other composting?"
+  ],
+  [
+    "Q064",
+    "How many tonnes of residual waste were sent for sorting prior to disposal or recovery (Residual Waste MRF)?"
+  ],
+  [
+    "Q065",
+    "How many tonnes of waste were disposed of by any other method not covered elsewhere?"
+  ],
+  [
+    "Q069",
+    "Please provide the household/non-hh split of residual waste sent for recycling.  This is an optional question to compute household ratio which is applied to residual recycling \u2013 please see ? for more information."
+  ],
+  [
+    "Q070",
+    "Enter the amount of waste seperated from the residual waste and sent for recycling.  The total should equal the outputs to recycling reported in Questions 56,57,59,60,64 and 65."
+  ]
+]
