@@ -17,7 +17,7 @@ Starting at line 15 we have the actual data about waste collection. The rows see
 - questions `Q051` through `Q065` and `Q070` contain info about the total amount of waste disposed in various manners,
 - question `Q069` concerns the ratio between household and non-household waste.
 
-In this task we are only interested in the percentage of waste that ends up in some form of landfill, so we could restrict our attention just to questions Q051 through Q065 (Q070 should be a sum of some subset of those). However, as at some later point we might want to use other parts of the data, it makes sense to load the data from other questions too.
+In this task we are only interested in the percentage of waste that ends up in some form of landfill, so we could restrict our attention just to questions `Q051` through `Q065` (`Q070` should be a sum of some subset of those). However, as at some later point we might want to use other parts of the data, it makes sense to load the data from other questions too.
 
 Let us briefly look at the remaining columns: columns `RowOrder` through `columngroup` seem to carry no relevant information. Column `MaterialGroup` whenever defined seems to be a function of `RowText` (indeed, I've checked that it is a less granular classification of waste), so let us store this relationship in the metadata collection.
 
@@ -25,11 +25,11 @@ I have written a script that ingests all the data and creates a nested structure
 
 ### Reporting
 
-By looking at the different questions, I have reached the conclusion that in order to find information about the total amount landfill/non-landfill waste produced by a specific district in a specific period of time, it should be sufficient to look at questions `Q051` through `Q065`. Questions `Q051` through `Q053` concern different types of landfill, while the remaining types of questions concern other ways of waste disposal (but they might still contribute to the total landfill amount as waste sent to some destination can be then rejected to landfill). So the reports I generate are based entirely on these questions.
+By looking at the different questions, I have reached the conclusion that in order to find information about the total amount of landfill/non-landfill waste produced by a specific district in a specific period of time, it should be sufficient to look at questions `Q051` through `Q065`. Questions `Q051` through `Q053` concern different types of landfill, while the remaining types of questions concern other ways of waste disposal (but they might still contribute to the total landfill amount as waste sent to some destination can be still rejected to landfill). So the reports I generate are based entirely on these questions.
 
-For a specific district and period I would not expect all these summary questions to have answers, but I would expect at least 3-4 answers per questionnaire (the waste cannot all end up in a single destination, there must be some variety). Given that out of 1408 questionnaires there are 480 with at least 4 answers in the summary section, I would estimate that this script gives somewhat reasonable results in ~35% of the cases.
+For a specific district and period I would not expect all these summary questions to have answers, but I would expect at least 3-4 answers per questionnaire (the waste cannot all end up in a single destination, there must be some diversity). Given that out of 1408 questionnaires there are 480 with at least 4 answers in the summary section, I would estimate that this script gives somewhat reasonable results in ~35% of the cases.
 
-To treat the remaining cases one would have to look into the remaining fields. Ideally, one would look at some complete questionnaires to determine how these summary fields are computed and perform analogous computation for the other questionnaires. However, this felt beyond the scope of this assignment.
+For the remaining cases I believe the questionnaires are in some sense incomplete. Maybe the relevant data is there, but I cannot find in a summarised form. To such cases one would have to look into the remaining fields. Ideally, one would look at some complete questionnaires to determine how these summary fields are computed and perform analogous computation for the other questionnaires. However, I did not have time to do this.
 
 ## How to install and run
 
@@ -37,8 +37,8 @@ This procedure has been tested on `Python 3.10.6`.
 
 To install requirements:
 
-```commandline
-pip install -r -requirements
+```
+pip install -r -requirements.txt
 ```
 
 To start MongoDB container:
@@ -47,7 +47,7 @@ To start MongoDB container:
 docker-compose up
 ```
 
-Note that in the current all the data will be lost once the container is gone, in order to go for persistent storage would have to mount some volume. 
+Note that in the current all the data will be lost once the container is gone, in order to have some persistent storage we would have to mount some volume. 
 
 To ingest data:
 

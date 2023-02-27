@@ -314,10 +314,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 22775.670000000002,
+    "total": 22775.67,
     "landfill": 9325.300000000001,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.40944130293422765,
+    "landfill_fraction": 0.4094413029342277,
     "customer": "Barnsley MBC",
     "year": 2012,
     "quarter": "Q2"
@@ -332,19 +332,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 18964.45,
+    "total": 18964.449999999997,
     "landfill": 7078.933999999999,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.37327388877610473,
+    "landfill_fraction": 0.3732738887761048,
     "customer": "Barnsley MBC",
     "year": 2012,
     "quarter": "Q4"
   },
   {
     "total": 16819.66,
-    "landfill": 1776.39,
+    "landfill": 1776.3899999999999,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.10561390658312951,
+    "landfill_fraction": 0.1056139065831295,
     "customer": "Barnsley MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -494,10 +494,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 5097.366999999999,
+    "total": 5097.367,
     "landfill": 1064.52,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.20883722910278976,
+    "landfill_fraction": 0.20883722910278973,
     "customer": "Bath and North East Somerset Council",
     "year": 2012,
     "quarter": "Q2"
@@ -521,17 +521,17 @@
     "quarter": "Q4"
   },
   {
-    "total": 4810.93,
+    "total": 4810.929999999999,
     "landfill": 1908.15,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.39662809477585415,
+    "landfill_fraction": 0.3966280947758542,
     "customer": "Bath and North East Somerset Council",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 20302.194999999996,
-    "landfill": 12472.562999999998,
+    "total": 20302.195,
+    "landfill": 12472.563,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.6143455424401155,
     "customer": "Bedford",
@@ -540,18 +540,18 @@
   },
   {
     "total": 20428.0,
-    "landfill": 12122.429999999998,
+    "landfill": 12122.43,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.5934222635598198,
+    "landfill_fraction": 0.5934222635598199,
     "customer": "Bedford",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 17551.755,
+    "total": 17551.754999999997,
     "landfill": 5417.8369999999995,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.30867779318934196,
+    "landfill_fraction": 0.3086777931893421,
     "customer": "Bedford",
     "year": 2012,
     "quarter": "Q4"
@@ -603,9 +603,9 @@
   },
   {
     "total": 115037.70999999999,
-    "landfill": 16440.63,
+    "landfill": 16440.629999999997,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.142915136262709,
+    "landfill_fraction": 0.14291513626270896,
     "customer": "Birmingham City Council",
     "year": 2012,
     "quarter": "Q2"
@@ -620,19 +620,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 109584.42,
+    "total": 109584.41999999998,
     "landfill": 6774.570000000001,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.06182055806838235,
+    "landfill_fraction": 0.06182055806838236,
     "customer": "Birmingham City Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 99592.95000000001,
+    "total": 99592.95000000003,
     "landfill": 5918.76,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.0594295078115469,
+    "landfill_fraction": 0.05942950781154689,
     "customer": "Birmingham City Council",
     "year": 2013,
     "quarter": "Q1"
@@ -683,28 +683,28 @@
     "quarter": "Q2"
   },
   {
-    "total": 16568.09,
+    "total": 16568.089999999997,
     "landfill": 10715.3,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.646743227493332,
+    "landfill_fraction": 0.6467432274933321,
     "customer": "Blackburn with Darwen Borough Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 13968.57,
-    "landfill": 8935.109999999999,
+    "landfill": 8935.11,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.6396581754610529,
+    "landfill_fraction": 0.639658175461053,
     "customer": "Blackburn with Darwen Borough Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 13177.390000000001,
-    "landfill": 8566.919999999998,
+    "total": 13177.39,
+    "landfill": 8566.92,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.6501226722438963,
+    "landfill_fraction": 0.6501226722438966,
     "customer": "Blackburn with Darwen Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -737,10 +737,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 14391.559999999998,
+    "total": 14391.56,
     "landfill": 9178.66,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.637780754831304,
+    "landfill_fraction": 0.6377807548313039,
     "customer": "Blackpool Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -872,17 +872,17 @@
     "quarter": "Q3"
   },
   {
-    "total": 19655.780000000002,
+    "total": 19655.78,
     "landfill": 1985.15,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.10099573764053117,
+    "landfill_fraction": 0.1009957376405312,
     "customer": "Bournemouth Borough Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 18003.84,
-    "landfill": 2158.07,
+    "total": 18003.839999999997,
+    "landfill": 2158.0699999999997,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.11986720610714159,
     "customer": "Bournemouth Borough Council",
@@ -900,7 +900,7 @@
   },
   {
     "total": 11720.400000000001,
-    "landfill": 3811.91,
+    "landfill": 3811.9100000000003,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.32523719326985423,
     "customer": "Bracknell Forest Borough Council",
@@ -918,9 +918,9 @@
   },
   {
     "total": 10136.810000000001,
-    "landfill": 2649.9800000000005,
+    "landfill": 2649.98,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.2614214925602828,
+    "landfill_fraction": 0.26142149256028274,
     "customer": "Bracknell Forest Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -1160,10 +1160,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 20714.989,
+    "total": 20714.988999999998,
     "landfill": 1856.796,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.08963538431036579,
+    "landfill_fraction": 0.0896353843103658,
     "customer": "Bristol City Council",
     "year": 2012,
     "quarter": "Q4"
@@ -1224,9 +1224,9 @@
   },
   {
     "total": 31528.13,
-    "landfill": 11934.750000000002,
+    "landfill": 11934.75,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.37854290755588743,
+    "landfill_fraction": 0.3785429075558874,
     "customer": "Bromley LB",
     "year": 2012,
     "quarter": "Q3"
@@ -1259,8 +1259,8 @@
     "quarter": "Q2"
   },
   {
-    "total": 46.849999999999994,
-    "landfill": 2.9299999999999997,
+    "total": 46.85,
+    "landfill": 2.93,
     "num_relevant_questions": 1,
     "landfill_fraction": 0.06254002134471719,
     "customer": "Bromsgrove District Council",
@@ -1269,9 +1269,9 @@
   },
   {
     "total": 164.94,
-    "landfill": 11.700000000000001,
+    "landfill": 11.7,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.07093488541287742,
+    "landfill_fraction": 0.0709348854128774,
     "customer": "Bromsgrove District Council",
     "year": 2012,
     "quarter": "Q4"
@@ -1354,8 +1354,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 53385.299999999996,
-    "landfill": 38332.909999999996,
+    "total": 53385.3,
+    "landfill": 38332.91,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.7180424199170933,
     "customer": "Buckinghamshire County Council",
@@ -1363,17 +1363,17 @@
     "quarter": "Q2"
   },
   {
-    "total": 52042.67,
-    "landfill": 37079.219999999994,
+    "total": 52042.670000000006,
+    "landfill": 37079.22000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.712477280662195,
+    "landfill_fraction": 0.7124772806621952,
     "customer": "Buckinghamshire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 45350.369999999995,
-    "landfill": 31229.549999999996,
+    "total": 45350.37,
+    "landfill": 31229.55,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.6886283397467319,
     "customer": "Buckinghamshire County Council",
@@ -1381,8 +1381,8 @@
     "quarter": "Q4"
   },
   {
-    "total": 40028.21,
-    "landfill": 30480.29,
+    "total": 40028.21000000001,
+    "landfill": 30480.290000000005,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.761470223125141,
     "customer": "Buckinghamshire County Council",
@@ -1764,19 +1764,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 21314.67,
-    "landfill": 7784.87,
+    "total": 21314.670000000002,
+    "landfill": 7784.869999999999,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.36523530507392327,
+    "landfill_fraction": 0.3652353050739232,
     "customer": "Central Bedfordshire",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 12810.840000000002,
+    "total": 12810.84,
     "landfill": 613.86,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.047917232593647247,
+    "landfill_fraction": 0.04791723259364725,
     "customer": "Central Bedfordshire",
     "year": 2013,
     "quarter": "Q1"
@@ -1918,19 +1918,19 @@
     "quarter": "Q1"
   },
   {
-    "total": 24051.199999999997,
+    "total": 24051.2,
     "landfill": 17.92,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.0007450771687067591,
+    "landfill_fraction": 0.000745077168706759,
     "customer": "Cheshire East",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 45553.58999999999,
+    "total": 45553.59,
     "landfill": 19856.829999999998,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.43590044165564124,
+    "landfill_fraction": 0.4359004416556412,
     "customer": "Cheshire East",
     "year": 2012,
     "quarter": "Q3"
@@ -1981,10 +1981,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 23793.46,
+    "total": 23793.460000000003,
     "landfill": 15707.77,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.6601717446726958,
+    "landfill_fraction": 0.6601717446726957,
     "customer": "Cheshire West and Chester",
     "year": 2013,
     "quarter": "Q1"
@@ -2161,7 +2161,7 @@
     "quarter": "Q4"
   },
   {
-    "total": 896.5699999999999,
+    "total": 896.57,
     "landfill": 0,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.0,
@@ -2270,10 +2270,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 60751.69000000001,
+    "total": 60751.69,
     "landfill": 43510.474,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.7162018702689587,
+    "landfill_fraction": 0.7162018702689588,
     "customer": "Cornwall",
     "year": 2012,
     "quarter": "Q2"
@@ -2393,27 +2393,27 @@
   },
   {
     "total": 51072.59,
-    "landfill": 19623.170000000002,
+    "landfill": 19623.17,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.3842211644249881,
+    "landfill_fraction": 0.38422116442498805,
     "customer": "County Durham",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 48721.340000000004,
+    "total": 48721.34,
     "landfill": 18962.56,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.38920440201357354,
+    "landfill_fraction": 0.3892044020135736,
     "customer": "County Durham",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 28641.179999999997,
-    "landfill": 849.4099999999999,
+    "total": 28641.18,
+    "landfill": 849.4100000000001,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.02965694849164734,
+    "landfill_fraction": 0.029656948491647343,
     "customer": "Coventry City Council",
     "year": 2012,
     "quarter": "Q2"
@@ -2428,7 +2428,7 @@
     "quarter": "Q3"
   },
   {
-    "total": 27011.01,
+    "total": 27011.009999999995,
     "landfill": 951.02,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.03520860567598176,
@@ -2519,27 +2519,27 @@
   },
   {
     "total": 34023.86,
-    "landfill": 20481.06,
+    "landfill": 20481.059999999998,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6019616821842084,
+    "landfill_fraction": 0.6019616821842083,
     "customer": "Croydon LB",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 35842.439999999995,
-    "landfill": 21100.13,
+    "total": 35842.44,
+    "landfill": 21100.129999999997,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5886912274945568,
+    "landfill_fraction": 0.5886912274945566,
     "customer": "Croydon LB",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 32628.760000000002,
-    "landfill": 21857.76,
+    "landfill": 21857.760000000002,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.669892450709129,
+    "landfill_fraction": 0.6698924507091291,
     "customer": "Croydon LB",
     "year": 2012,
     "quarter": "Q4"
@@ -2563,10 +2563,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 51500.909999999996,
+    "total": 51500.91,
     "landfill": 21265.559999999998,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.41291619895648446,
+    "landfill_fraction": 0.4129161989564844,
     "customer": "Cumbria County Council",
     "year": 2012,
     "quarter": "Q3"
@@ -2622,10 +2622,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 6698.491000000002,
+    "total": 6698.491,
     "landfill": 3587.8799999999997,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.5356251131784754,
+    "landfill_fraction": 0.5356251131784755,
     "customer": "Darlington Borough Council",
     "year": 2012,
     "quarter": "Q2"
@@ -2641,9 +2641,9 @@
   },
   {
     "total": 10345.384999999998,
-    "landfill": 5798.0599999999995,
+    "landfill": 5798.06,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.5604489344765806,
+    "landfill_fraction": 0.5604489344765807,
     "customer": "Darlington Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -2667,7 +2667,7 @@
     "quarter": "Q2"
   },
   {
-    "total": 1533.77,
+    "total": 1533.7700000000002,
     "landfill": 0,
     "num_relevant_questions": 1,
     "landfill_fraction": 0.0,
@@ -2736,15 +2736,15 @@
   },
   {
     "total": 28162.12,
-    "landfill": 13971.83,
+    "landfill": 13971.829999999998,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.49612138574794795,
+    "landfill_fraction": 0.4961213857479479,
     "customer": "Derby City Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 21954.980000000003,
+    "total": 21954.98,
     "landfill": 11350.820000000002,
     "num_relevant_questions": 10,
     "landfill_fraction": 0.5170043425227443,
@@ -2753,10 +2753,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 20094.229999999996,
+    "total": 20094.23,
     "landfill": 10953.19,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.5450913023290767,
+    "landfill_fraction": 0.5450913023290765,
     "customer": "Derby City Council",
     "year": 2013,
     "quarter": "Q1"
@@ -2780,19 +2780,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 36918.31,
+    "total": 36918.30999999999,
     "landfill": 17715.359999999997,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.47985295101536335,
+    "landfill_fraction": 0.4798529510153634,
     "customer": "Derbyshire County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 24035.38,
+    "total": 24035.379999999994,
     "landfill": 14933.269999999999,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.6213036781611108,
+    "landfill_fraction": 0.621303678161111,
     "customer": "Derbyshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -2843,8 +2843,8 @@
     "quarter": "Q2"
   },
   {
-    "total": 65123.607,
-    "landfill": 31461.791,
+    "total": 65123.60700000001,
+    "landfill": 31461.791000000005,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.4831088517563224,
     "customer": "Devon County Council",
@@ -2852,10 +2852,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 42909.308000000005,
+    "total": 42909.308,
     "landfill": 22342.989999999998,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5207026410213839,
+    "landfill_fraction": 0.520702641021384,
     "customer": "Devon County Council",
     "year": 2012,
     "quarter": "Q4"
@@ -2871,9 +2871,9 @@
   },
   {
     "total": 27830.21,
-    "landfill": 5717.7029999999995,
+    "landfill": 5717.703,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.20544950972342643,
+    "landfill_fraction": 0.20544950972342646,
     "customer": "Doncaster MBC",
     "year": 2012,
     "quarter": "Q2"
@@ -2888,7 +2888,7 @@
     "quarter": "Q3"
   },
   {
-    "total": 12328.070000000002,
+    "total": 12328.07,
     "landfill": 3257.5299999999997,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.2642368189019043,
@@ -2906,10 +2906,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 42892.41000000001,
+    "total": 42892.41,
     "landfill": 19750.170000000002,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.4604583887918631,
+    "landfill_fraction": 0.4604583887918632,
     "customer": "Dorset Waste Partnership",
     "year": 2012,
     "quarter": "Q2"
@@ -2924,19 +2924,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 38467.37,
+    "total": 38467.369999999995,
     "landfill": 17539.15,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.455948769047637,
+    "landfill_fraction": 0.4559487690476371,
     "customer": "Dorset Waste Partnership",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 35677.08,
+    "total": 35677.08000000001,
     "landfill": 17379.37,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.48712983237417407,
+    "landfill_fraction": 0.48712983237417395,
     "customer": "Dorset Waste Partnership",
     "year": 2013,
     "quarter": "Q1"
@@ -2987,7 +2987,7 @@
     "quarter": "Q2"
   },
   {
-    "total": 30988.285,
+    "total": 30988.285000000003,
     "landfill": 6236.139999999999,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.20124185639831307,
@@ -3005,10 +3005,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 23619.86,
+    "total": 23619.859999999997,
     "landfill": 1121.1,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.047464294877277,
+    "landfill_fraction": 0.047464294877277005,
     "customer": "Dudley MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -3291,18 +3291,18 @@
   },
   {
     "total": 22322.73,
-    "landfill": 9394.229999999998,
+    "landfill": 9394.23,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.42083696752144556,
+    "landfill_fraction": 0.4208369675214456,
     "customer": "East Riding of Yorkshire Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 24070.93,
-    "landfill": 9421.03,
+    "landfill": 9421.029999999999,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.39138620734637175,
+    "landfill_fraction": 0.3913862073463717,
     "customer": "East Riding of Yorkshire Council",
     "year": 2012,
     "quarter": "Q3"
@@ -3363,27 +3363,27 @@
   },
   {
     "total": 52560.937,
-    "landfill": 3046.5240000000003,
+    "landfill": 3046.524,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.05796175208976964,
+    "landfill_fraction": 0.057961752089769634,
     "customer": "East Sussex County Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 55998.852999999996,
-    "landfill": 10597.538,
+    "total": 55998.853,
+    "landfill": 10597.537999999999,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.18924562615595003,
+    "landfill_fraction": 0.18924562615594998,
     "customer": "East Sussex County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 44379.119000000006,
-    "landfill": 4226.981,
+    "landfill": 4226.981000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.09524706878475887,
+    "landfill_fraction": 0.09524706878475889,
     "customer": "East Sussex County Council",
     "year": 2012,
     "quarter": "Q4"
@@ -3666,26 +3666,26 @@
     "quarter": "Q3"
   },
   {
-    "total": 1980.1799999999998,
+    "total": 1980.18,
     "landfill": 338.51,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.1709491056368613,
+    "landfill_fraction": 0.17094910563686128,
     "customer": "Erewash Borough Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 2914.8799999999997,
+    "total": 2914.88,
     "landfill": 335.20000000000005,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.11499615764628393,
+    "landfill_fraction": 0.1149961576462839,
     "customer": "Erewash Borough Council",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 114381.582,
-    "landfill": 85448.082,
+    "total": 114381.58199999998,
+    "landfill": 85448.08199999998,
     "num_relevant_questions": 3,
     "landfill_fraction": 0.7470440651887469,
     "customer": "Essex County Council",
@@ -3702,8 +3702,8 @@
     "quarter": "Q3"
   },
   {
-    "total": 109126.55399999997,
-    "landfill": 81342.24399999998,
+    "total": 109126.554,
+    "landfill": 81342.24399999999,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.7453936830077122,
     "customer": "Essex County Council",
@@ -3932,17 +3932,17 @@
     "quarter": "Q1"
   },
   {
-    "total": 20702.030000000002,
+    "total": 20702.03,
     "landfill": 12485.87,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.6031229787610201,
+    "landfill_fraction": 0.6031229787610202,
     "customer": "Gateshead MBC",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 22030.88,
-    "landfill": 11681.500000000002,
+    "landfill": 11681.5,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.5302330183814719,
     "customer": "Gateshead MBC",
@@ -4036,10 +4036,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 55393.78,
+    "total": 55393.780000000006,
     "landfill": 39953.93,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.7212710524539037,
+    "landfill_fraction": 0.7212710524539035,
     "customer": "Gloucestershire County Council",
     "year": 2012,
     "quarter": "Q2"
@@ -4180,37 +4180,37 @@
     "quarter": "Q1"
   },
   {
-    "total": 201595.48099999994,
-    "landfill": 124375.53599999998,
+    "total": 201595.481,
+    "landfill": 124375.536,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.6169559723414634,
+    "landfill_fraction": 0.6169559723414633,
     "customer": "Greater Manchester WDA (MBC)",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 213236.68899999998,
-    "landfill": 124675.64099999999,
+    "total": 213236.689,
+    "landfill": 124675.64099999997,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.584681939982664,
+    "landfill_fraction": 0.5846819399826639,
     "customer": "Greater Manchester WDA (MBC)",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 170190.105,
-    "landfill": 107221.403,
+    "landfill": 107221.40300000002,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.6300096177741943,
+    "landfill_fraction": 0.6300096177741944,
     "customer": "Greater Manchester WDA (MBC)",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 170606.93099999998,
-    "landfill": 113740.241,
+    "total": 170606.93099999995,
+    "landfill": 113740.24100000001,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.6666800717492539,
+    "landfill_fraction": 0.666680071749254,
     "customer": "Greater Manchester WDA (MBC)",
     "year": 2013,
     "quarter": "Q1"
@@ -4226,18 +4226,18 @@
   },
   {
     "total": 26346.57,
-    "landfill": 900.88,
+    "landfill": 900.8799999999999,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.03419344529477651,
+    "landfill_fraction": 0.034193445294776505,
     "customer": "Greenwich LB",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 24442.530000000002,
+    "total": 24442.53,
     "landfill": 243.27,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.00995273402548754,
+    "landfill_fraction": 0.009952734025487542,
     "customer": "Greenwich LB",
     "year": 2012,
     "quarter": "Q4"
@@ -4352,9 +4352,9 @@
   },
   {
     "total": 9507.320000000002,
-    "landfill": 8237.980000000001,
+    "landfill": 8237.98,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.8664881375613738,
+    "landfill_fraction": 0.8664881375613736,
     "customer": "Halton Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -4428,8 +4428,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 94442.32999999999,
-    "landfill": 12375.83,
+    "total": 94442.33,
+    "landfill": 12375.830000000002,
     "num_relevant_questions": 8,
     "landfill_fraction": 0.13104113377973628,
     "customer": "Hampshire County Council",
@@ -4694,10 +4694,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 7270.700000000001,
+    "total": 7270.7,
     "landfill": 389.46999999999997,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.05356705681708775,
+    "landfill_fraction": 0.05356705681708776,
     "customer": "Hartlepool Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -4820,28 +4820,28 @@
     "quarter": "Q1"
   },
   {
-    "total": 8471.26,
+    "total": 8471.259999999998,
     "landfill": 2242.83,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.26475754492247905,
+    "landfill_fraction": 0.2647575449224791,
     "customer": "Herefordshire Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 9625.7,
-    "landfill": 2308.2100000000005,
+    "landfill": 2308.21,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.23979658622230074,
+    "landfill_fraction": 0.2397965862223007,
     "customer": "Herefordshire Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 7515.3,
-    "landfill": 2254.7799999999997,
+    "landfill": 2254.78,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.30002528175854587,
+    "landfill_fraction": 0.3000252817585459,
     "customer": "Herefordshire Council",
     "year": 2012,
     "quarter": "Q4"
@@ -4857,7 +4857,7 @@
   },
   {
     "total": 77387.23000000001,
-    "landfill": 22634.940000000002,
+    "landfill": 22634.94,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.2924893422338543,
     "customer": "Hertfordshire County Council",
@@ -4866,16 +4866,16 @@
   },
   {
     "total": 77045.48,
-    "landfill": 22223.960000000003,
+    "landfill": 22223.96,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.28845248287115616,
+    "landfill_fraction": 0.2884524828711561,
     "customer": "Hertfordshire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 77101.97000000002,
-    "landfill": 24109.83,
+    "total": 77101.97,
+    "landfill": 24109.829999999998,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.3127005704264106,
     "customer": "Hertfordshire County Council",
@@ -5207,10 +5207,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 16747.699999999997,
+    "total": 16747.7,
     "landfill": 7188.27,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.4292093839751131,
+    "landfill_fraction": 0.429209383975113,
     "customer": "Isle of Wight Council",
     "year": 2012,
     "quarter": "Q2"
@@ -5243,25 +5243,25 @@
     "quarter": "Q1"
   },
   {
-    "total": 3761.0400000000004,
+    "total": 3761.04,
     "landfill": 22.94,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.006099376768127964,
+    "landfill_fraction": 0.006099376768127965,
     "customer": "Islington LB",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 3561.8500000000004,
+    "total": 3561.85,
     "landfill": 27.41,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.007695439167848168,
+    "landfill_fraction": 0.007695439167848169,
     "customer": "Islington LB",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 3849.7,
+    "total": 3849.7000000000003,
     "landfill": 23.11,
     "num_relevant_questions": 1,
     "landfill_fraction": 0.006003065173909655,
@@ -5280,34 +5280,34 @@
   },
   {
     "total": 132148.44,
-    "landfill": 63140.08,
+    "landfill": 63140.079999999994,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.47779663535944883,
+    "landfill_fraction": 0.4777966353594488,
     "customer": "Kent County Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 134740.65999999997,
-    "landfill": 42876.09,
+    "total": 134740.66,
+    "landfill": 42876.09000000001,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.3182119636344367,
+    "landfill_fraction": 0.31821196363443677,
     "customer": "Kent County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 110265.59000000001,
-    "landfill": 35447.37,
+    "landfill": 35447.369999999995,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.3214726371119041,
+    "landfill_fraction": 0.321472637111904,
     "customer": "Kent County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 99210.5,
-    "landfill": 33561.909999999996,
+    "total": 99210.50000000001,
+    "landfill": 33561.91,
     "num_relevant_questions": 4,
     "landfill_fraction": 0.33828989875063625,
     "customer": "Kent County Council",
@@ -5383,8 +5383,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 29375.010000000002,
-    "landfill": 14711.250000000002,
+    "total": 29375.009999999995,
+    "landfill": 14711.25,
     "num_relevant_questions": 8,
     "landfill_fraction": 0.5008083401503524,
     "customer": "Kingston-upon-Hull City Council",
@@ -5410,10 +5410,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 25704.12,
+    "total": 25704.120000000003,
     "landfill": 13886.84,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.540257359520575,
+    "landfill_fraction": 0.5402573595205749,
     "customer": "Kingston-upon-Hull City Council",
     "year": 2013,
     "quarter": "Q1"
@@ -5483,9 +5483,9 @@
   },
   {
     "total": 2940.7200000000003,
-    "landfill": 282.41,
+    "landfill": 282.40999999999997,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.09603430452406213,
+    "landfill_fraction": 0.09603430452406211,
     "customer": "Knowsley MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -5527,16 +5527,16 @@
     "quarter": "Q1"
   },
   {
-    "total": 118244.90999999999,
+    "total": 118244.91,
     "landfill": 69712.23,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5895579775907479,
+    "landfill_fraction": 0.5895579775907478,
     "customer": "Lancashire County Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 123817.80000000002,
+    "total": 123817.8,
     "landfill": 65621.59,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.5299851071493759,
@@ -5546,16 +5546,16 @@
   },
   {
     "total": 104163.308,
-    "landfill": 65914.03000000001,
+    "landfill": 65914.03,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6327950913386892,
+    "landfill_fraction": 0.632795091338689,
     "customer": "Lancashire County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
     "total": 98721.77,
-    "landfill": 64633.740000000005,
+    "landfill": 64633.74,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.6547060491318176,
     "customer": "Lancashire County Council",
@@ -5671,28 +5671,28 @@
     "quarter": "Q1"
   },
   {
-    "total": 72997.54100000001,
-    "landfill": 29904.157000000003,
+    "total": 72997.541,
+    "landfill": 29904.157,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.409659785663191,
+    "landfill_fraction": 0.40965978566319106,
     "customer": "Leicestershire County Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 75545.17899999999,
-    "landfill": 27768.130999999998,
+    "landfill": 27768.131000000005,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.36756986173796746,
+    "landfill_fraction": 0.3675698617379675,
     "customer": "Leicestershire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 57297.514,
-    "landfill": 25838.800000000003,
+    "total": 57297.513999999996,
+    "landfill": 25838.799999999996,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.45095848312022757,
+    "landfill_fraction": 0.45095848312022746,
     "customer": "Leicestershire County Council",
     "year": 2012,
     "quarter": "Q4"
@@ -5752,10 +5752,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 33517.62,
+    "total": 33517.619999999995,
     "landfill": 2923.17,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.08721293456993665,
+    "landfill_fraction": 0.08721293456993666,
     "customer": "Lewisham LB",
     "year": 2012,
     "quarter": "Q3"
@@ -5843,9 +5843,9 @@
   },
   {
     "total": 2273.8599999999997,
-    "landfill": 161.58999999999997,
+    "landfill": 161.59,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.07106418161188463,
+    "landfill_fraction": 0.07106418161188464,
     "customer": "Lincoln City Council",
     "year": 2013,
     "quarter": "Q1"
@@ -5861,16 +5861,16 @@
   },
   {
     "total": 71986.48999999999,
-    "landfill": 39892.81999999999,
+    "landfill": 39892.82,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.5541709284617155,
+    "landfill_fraction": 0.5541709284617156,
     "customer": "Lincolnshire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 54137.509999999995,
-    "landfill": 38989.439999999995,
+    "total": 54137.51,
+    "landfill": 38989.44,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.7201927092694141,
     "customer": "Lincolnshire County Council",
@@ -5878,10 +5878,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 45917.71,
+    "total": 45917.71000000001,
     "landfill": 40025.12,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.8716706473384671,
+    "landfill_fraction": 0.871670647338467,
     "customer": "Lincolnshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -5932,10 +5932,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 22806.58,
+    "total": 22806.579999999998,
     "landfill": 14501.27,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6358371136750884,
+    "landfill_fraction": 0.6358371136750885,
     "customer": "Luton Borough Council",
     "year": 2012,
     "quarter": "Q3"
@@ -6148,19 +6148,19 @@
     "quarter": "Q2"
   },
   {
-    "total": 27236.070000000003,
+    "total": 27236.07,
     "landfill": 4049.4599999999996,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.1486800408428969,
+    "landfill_fraction": 0.14868004084289693,
     "customer": "Medway Borough Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 22735.239999999998,
+    "total": 22735.24,
     "landfill": 5066.71,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.22285711520969212,
+    "landfill_fraction": 0.22285711520969206,
     "customer": "Medway Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -6243,10 +6243,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 44054.82,
+    "total": 44054.82000000001,
     "landfill": 24103.69,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.5471294627920396,
+    "landfill_fraction": 0.5471294627920394,
     "customer": "Merseyside WDA (MBC)",
     "year": 2012,
     "quarter": "Q2"
@@ -6270,46 +6270,46 @@
     "quarter": "Q4"
   },
   {
-    "total": 57571.8,
+    "total": 57571.80000000001,
     "landfill": 23575.26,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.4094931893739643,
+    "landfill_fraction": 0.40949318937396423,
     "customer": "Merseyside WDA (MBC)",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 18798.620000000003,
+    "total": 18798.62,
     "landfill": 10168.9,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5409386433685025,
+    "landfill_fraction": 0.5409386433685026,
     "customer": "Merton LB",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 19197.0,
-    "landfill": 10425.48,
+    "landfill": 10425.480000000001,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5430786060321925,
+    "landfill_fraction": 0.5430786060321926,
     "customer": "Merton LB",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 18748.99,
-    "landfill": 11768.349999999999,
+    "landfill": 11768.35,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6276791443165737,
+    "landfill_fraction": 0.6276791443165738,
     "customer": "Merton LB",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 17158.980000000003,
-    "landfill": 8674.640000000001,
+    "total": 17158.98,
+    "landfill": 8674.640000000003,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5055452014047455,
+    "landfill_fraction": 0.5055452014047457,
     "customer": "Merton LB",
     "year": 2013,
     "quarter": "Q1"
@@ -6419,8 +6419,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 14494.798999999999,
-    "landfill": 1178.462,
+    "total": 14494.799,
+    "landfill": 1178.4620000000002,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.08130240371046195,
     "customer": "Middlesbrough Borough Council",
@@ -6446,10 +6446,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 11627.758,
+    "total": 11627.757999999998,
     "landfill": 439.489,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.03779653824924805,
+    "landfill_fraction": 0.03779653824924806,
     "customer": "Middlesbrough Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -6631,7 +6631,7 @@
     "quarter": "Q1"
   },
   {
-    "total": 31756.71,
+    "total": 31756.710000000003,
     "landfill": 12442.48,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.39180633006378807,
@@ -6721,19 +6721,19 @@
     "quarter": "Q3"
   },
   {
-    "total": 55368.329999999994,
+    "total": 55368.33,
     "landfill": 39382.02,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.7112733940142316,
+    "landfill_fraction": 0.7112733940142315,
     "customer": "Norfolk County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 48622.31,
-    "landfill": 40005.92999999999,
+    "total": 48622.30999999999,
+    "landfill": 40005.93,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.8227895795160698,
+    "landfill_fraction": 0.82278957951607,
     "customer": "Norfolk County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -6911,10 +6911,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 19712.385,
+    "total": 19712.385000000002,
     "landfill": 12162.099,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.6169775499007351,
+    "landfill_fraction": 0.616977549900735,
     "customer": "North Lincolnshire Council",
     "year": 2012,
     "quarter": "Q2"
@@ -6929,10 +6929,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 16481.367999999995,
+    "total": 16481.368,
     "landfill": 12747.216,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.7734319141469327,
+    "landfill_fraction": 0.7734319141469326,
     "customer": "North Lincolnshire Council",
     "year": 2012,
     "quarter": "Q4"
@@ -6947,10 +6947,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 174417.36,
+    "total": 174417.36000000002,
     "landfill": 58540.45,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.3356343084197582,
+    "landfill_fraction": 0.33563430841975816,
     "customer": "North London Waste Authority",
     "year": 2012,
     "quarter": "Q2"
@@ -6966,9 +6966,9 @@
   },
   {
     "total": 165737.55000000002,
-    "landfill": 47136.42999999999,
+    "landfill": 47136.43,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.2844040472421608,
+    "landfill_fraction": 0.28440404724216084,
     "customer": "North London Waste Authority",
     "year": 2012,
     "quarter": "Q4"
@@ -7037,28 +7037,28 @@
     "quarter": "Q3"
   },
   {
-    "total": 16363.899999999998,
+    "total": 16363.9,
     "landfill": 5651.15,
     "num_relevant_questions": 3,
-    "landfill_fraction": 0.34534249170430037,
+    "landfill_fraction": 0.3453424917043003,
     "customer": "North Somerset Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 15029.81,
+    "total": 15029.810000000001,
     "landfill": 8629.1,
     "num_relevant_questions": 3,
-    "landfill_fraction": 0.5741323409943306,
+    "landfill_fraction": 0.5741323409943305,
     "customer": "North Somerset Council",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 24385.88,
+    "total": 24385.879999999997,
     "landfill": 12433.019999999999,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.5098450414748206,
+    "landfill_fraction": 0.5098450414748207,
     "customer": "North Tyneside Council",
     "year": 2012,
     "quarter": "Q2"
@@ -7159,8 +7159,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 32196.120000000006,
-    "landfill": 28709.490000000005,
+    "total": 32196.120000000003,
+    "landfill": 28709.49,
     "num_relevant_questions": 4,
     "landfill_fraction": 0.8917065161889072,
     "customer": "North Yorkshire County Council",
@@ -7168,28 +7168,28 @@
     "quarter": "Q2"
   },
   {
-    "total": 49249.946,
-    "landfill": 23541.416,
+    "total": 49249.94600000001,
+    "landfill": 23541.416000000005,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.477998818516471,
+    "landfill_fraction": 0.4779988185164711,
     "customer": "North Yorkshire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 37033.1,
+    "total": 37033.100000000006,
     "landfill": 25597.150000000005,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.6911965241905216,
+    "landfill_fraction": 0.6911965241905215,
     "customer": "North Yorkshire County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 23694.982999999997,
+    "total": 23694.982999999993,
     "landfill": 19348.762999999995,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.8165763613335362,
+    "landfill_fraction": 0.8165763613335364,
     "customer": "North Yorkshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -7239,10 +7239,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 46330.37999999999,
-    "landfill": 13681.699999999999,
+    "total": 46330.380000000005,
+    "landfill": 13681.7,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.295307312394157,
+    "landfill_fraction": 0.2953073123941569,
     "customer": "Northamptonshire County Council",
     "year": 2012,
     "quarter": "Q3"
@@ -7257,10 +7257,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 46668.85,
+    "total": 46668.850000000006,
     "landfill": 34905.18,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.7479331502704695,
+    "landfill_fraction": 0.7479331502704694,
     "customer": "Northamptonshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -7338,10 +7338,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 34575.27,
-    "landfill": 1984.19,
+    "total": 34575.270000000004,
+    "landfill": 1984.1899999999998,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.05738754896201823,
+    "landfill_fraction": 0.05738754896201822,
     "customer": "Nottingham City Council",
     "year": 2012,
     "quarter": "Q2"
@@ -7356,35 +7356,35 @@
     "quarter": "Q3"
   },
   {
-    "total": 34231.01,
+    "total": 34231.009999999995,
     "landfill": 4140.05,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.12094443021108638,
+    "landfill_fraction": 0.1209444302110864,
     "customer": "Nottingham City Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
     "total": 30247.77,
-    "landfill": 2379.9399999999996,
+    "landfill": 2379.94,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.07868150280169413,
+    "landfill_fraction": 0.07868150280169414,
     "customer": "Nottingham City Council",
     "year": 2013,
     "quarter": "Q1"
   },
   {
     "total": 66759.36,
-    "landfill": 27915.310000000005,
+    "landfill": 27915.31,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.4181482566639345,
+    "landfill_fraction": 0.41814825666393446,
     "customer": "Nottinghamshire County Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 67731.34,
-    "landfill": 35768.979999999996,
+    "total": 67731.34000000001,
+    "landfill": 35768.98,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.5281008761970455,
     "customer": "Nottinghamshire County Council",
@@ -7401,8 +7401,8 @@
     "quarter": "Q4"
   },
   {
-    "total": 48235.92,
-    "landfill": 25112.780000000002,
+    "total": 48235.920000000006,
+    "landfill": 25112.780000000006,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.5206240494635533,
     "customer": "Nottinghamshire County Council",
@@ -7549,8 +7549,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 54482.99999999999,
-    "landfill": 31194.519999999997,
+    "total": 54483.0,
+    "landfill": 31194.52,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.5725551089330617,
     "customer": "Oxfordshire County Council",
@@ -7558,8 +7558,8 @@
     "quarter": "Q2"
   },
   {
-    "total": 57127.24,
-    "landfill": 32073.9,
+    "total": 57127.23999999999,
+    "landfill": 32073.899999999998,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.5614466933813012,
     "customer": "Oxfordshire County Council",
@@ -7567,10 +7567,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 45560.64,
+    "total": 45560.64000000001,
     "landfill": 30228.200000000004,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.6634718037323445,
+    "landfill_fraction": 0.6634718037323444,
     "customer": "Oxfordshire County Council",
     "year": 2012,
     "quarter": "Q4"
@@ -7630,10 +7630,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 22114.74,
+    "total": 22114.739999999998,
     "landfill": 11238.54,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.508192273569574,
+    "landfill_fraction": 0.5081922735695741,
     "customer": "Peterborough City Council",
     "year": 2012,
     "quarter": "Q3"
@@ -7711,10 +7711,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 18073.180000000004,
+    "total": 18073.18,
     "landfill": 6619.53,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.36626260569528984,
+    "landfill_fraction": 0.3662626056952899,
     "customer": "Poole Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -7810,26 +7810,26 @@
     "quarter": "Q2"
   },
   {
-    "total": 16291.19,
+    "total": 16291.189999999999,
     "landfill": 6049.11,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.37131173351977353,
+    "landfill_fraction": 0.3713117335197736,
     "customer": "Reading Borough Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 14470.85,
-    "landfill": 3622.45,
+    "landfill": 3622.4500000000003,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.2503273822892228,
+    "landfill_fraction": 0.25032738228922286,
     "customer": "Reading Borough Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 13383.33,
-    "landfill": 3775.1700000000005,
+    "total": 13383.329999999998,
+    "landfill": 3775.17,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.2820800204433426,
     "customer": "Reading Borough Council",
@@ -7869,10 +7869,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 15142.57,
+    "total": 15142.570000000002,
     "landfill": 205.0,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.0135379925600476,
+    "landfill_fraction": 0.013537992560047599,
     "customer": "Redcar and Cleveland Borough Council",
     "year": 2012,
     "quarter": "Q2"
@@ -7887,10 +7887,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 14107.157,
+    "total": 14107.157000000001,
     "landfill": 298.36,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.02114954841716159,
+    "landfill_fraction": 0.021149548417161587,
     "customer": "Redcar and Cleveland Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -8224,25 +8224,25 @@
   },
   {
     "total": 23447.004,
-    "landfill": 4268.322,
+    "landfill": 4268.322000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.18204125354352307,
+    "landfill_fraction": 0.18204125354352313,
     "customer": "Rotherham MBC",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 23226.149000000005,
+    "total": 23226.149,
     "landfill": 5908.249999999999,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.25437923437070853,
+    "landfill_fraction": 0.2543792343707086,
     "customer": "Rotherham MBC",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 14108.344999999998,
-    "landfill": 3318.3749999999995,
+    "total": 14108.345,
+    "landfill": 3318.375,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.2352065391085914,
     "customer": "Rotherham MBC",
@@ -8251,7 +8251,7 @@
   },
   {
     "total": 11071.529999999999,
-    "landfill": 2951.0529999999994,
+    "landfill": 2951.053,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.2665442806911059,
     "customer": "Rotherham MBC",
@@ -8304,19 +8304,19 @@
     "quarter": "Q2"
   },
   {
-    "total": 11309.602,
+    "total": 11309.601999999999,
     "landfill": 3331.194,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.2945456436044345,
+    "landfill_fraction": 0.2945456436044346,
     "customer": "Royal Borough of Kingston upon Thames ",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 10349.744999999999,
+    "total": 10349.745,
     "landfill": 1865.403,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.18023661452528542,
+    "landfill_fraction": 0.1802366145252854,
     "customer": "Royal Borough of Kingston upon Thames ",
     "year": 2012,
     "quarter": "Q4"
@@ -8588,10 +8588,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 32864.450000000004,
+    "total": 32864.45,
     "landfill": 4352.28,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.13243124409506318,
+    "landfill_fraction": 0.1324312440950632,
     "customer": "Sandwell MBC",
     "year": 2012,
     "quarter": "Q3"
@@ -8606,10 +8606,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 26847.789999999997,
-    "landfill": 3479.45,
+    "total": 26847.789999999994,
+    "landfill": 3479.4500000000003,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.1295991215664306,
+    "landfill_fraction": 0.12959912156643064,
     "customer": "Sandwell MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -8710,9 +8710,9 @@
   },
   {
     "total": 48.113,
-    "landfill": 5.438,
+    "landfill": 5.438000000000001,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.11302558560056533,
+    "landfill_fraction": 0.11302558560056535,
     "customer": "Sefton MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -8786,10 +8786,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 48684.060000000005,
+    "total": 48684.06,
     "landfill": 1991.9699999999998,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.04091626704921487,
+    "landfill_fraction": 0.040916267049214874,
     "customer": "Sheffield City Council",
     "year": 2012,
     "quarter": "Q2"
@@ -8804,10 +8804,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 42972.57,
-    "landfill": 2073.9399999999996,
+    "total": 42972.56999999999,
+    "landfill": 2073.94,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.04826194942494712,
+    "landfill_fraction": 0.04826194942494713,
     "customer": "Sheffield City Council",
     "year": 2012,
     "quarter": "Q4"
@@ -8867,19 +8867,19 @@
     "quarter": "Q2"
   },
   {
-    "total": 9274.42,
+    "total": 9274.420000000002,
     "landfill": 3402.58,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.3668779287545744,
+    "landfill_fraction": 0.3668779287545743,
     "customer": "Shropshire",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 3755.609999999999,
+    "total": 3755.6099999999997,
     "landfill": 804.46,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.2142022201453293,
+    "landfill_fraction": 0.21420222014532928,
     "customer": "Shropshire",
     "year": 2012,
     "quarter": "Q4"
@@ -8912,28 +8912,28 @@
     "quarter": "Q3"
   },
   {
-    "total": 11801.434,
+    "total": 11801.434000000001,
     "landfill": 790.32,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.06696813285571906,
+    "landfill_fraction": 0.06696813285571905,
     "customer": "Slough Borough Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 11128.06,
+    "total": 11128.060000000001,
     "landfill": 398.44,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.03580498307881158,
+    "landfill_fraction": 0.035804983078811574,
     "customer": "Slough Borough Council",
     "year": 2013,
     "quarter": "Q1"
   },
   {
-    "total": 1917.9599999999998,
+    "total": 1917.96,
     "landfill": 1121.28,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.5846211599824814,
+    "landfill_fraction": 0.5846211599824813,
     "customer": "Solihull MBC",
     "year": 2012,
     "quarter": "Q2"
@@ -8958,9 +8958,9 @@
   },
   {
     "total": 3216.53,
-    "landfill": 2788.202,
+    "landfill": 2788.2019999999998,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.8668353784979466,
+    "landfill_fraction": 0.8668353784979465,
     "customer": "Solihull MBC",
     "year": 2013,
     "quarter": "Q1"
@@ -8975,26 +8975,26 @@
     "quarter": "Q2"
   },
   {
-    "total": 45744.448,
+    "total": 45744.448000000004,
     "landfill": 30336.998,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6631842622737518,
+    "landfill_fraction": 0.6631842622737517,
     "customer": "Somerset County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 39352.357,
+    "total": 39352.356999999996,
     "landfill": 29705.06,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.7548483055284337,
+    "landfill_fraction": 0.7548483055284338,
     "customer": "Somerset County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 37772.497,
-    "landfill": 29623.025,
+    "total": 37772.496999999996,
+    "landfill": 29623.024999999998,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.784248523469338,
     "customer": "Somerset County Council",
@@ -9107,9 +9107,9 @@
   },
   {
     "total": 22644.920000000002,
-    "landfill": 3205.354,
+    "landfill": 3205.3540000000003,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.14154847974733403,
+    "landfill_fraction": 0.14154847974733406,
     "customer": "South Gloucestershire Council",
     "year": 2012,
     "quarter": "Q2"
@@ -9125,18 +9125,18 @@
   },
   {
     "total": 18102.69,
-    "landfill": 3869.962,
+    "landfill": 3869.9620000000004,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.21377828377992444,
+    "landfill_fraction": 0.21377828377992447,
     "customer": "South Gloucestershire Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 16085.829999999998,
+    "total": 16085.83,
     "landfill": 5202.660000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.32343124352302627,
+    "landfill_fraction": 0.3234312435230262,
     "customer": "South Gloucestershire Council",
     "year": 2013,
     "quarter": "Q1"
@@ -9512,10 +9512,10 @@
     "quarter": "Q3"
   },
   {
-    "total": 15108.5,
+    "total": 15108.500000000002,
     "landfill": 11511.900000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.7619485719958965,
+    "landfill_fraction": 0.7619485719958964,
     "customer": "South Tyneside MBC",
     "year": 2012,
     "quarter": "Q4"
@@ -9530,17 +9530,17 @@
     "quarter": "Q1"
   },
   {
-    "total": 2988.65,
+    "total": 2988.6500000000005,
     "landfill": 147.57,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.04937680892710755,
+    "landfill_fraction": 0.049376808927107545,
     "customer": "Southampton City Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 3185.9900000000002,
-    "landfill": 183.13000000000002,
+    "total": 3185.99,
+    "landfill": 183.13,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.05747977865592799,
     "customer": "Southampton City Council",
@@ -9603,18 +9603,18 @@
   },
   {
     "total": 26084.56,
-    "landfill": 12568.115000000002,
+    "landfill": 12568.115,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.4818220050481971,
+    "landfill_fraction": 0.48182200504819706,
     "customer": "Southwark LB",
     "year": 2012,
     "quarter": "Q2"
   },
   {
     "total": 27002.315000000002,
-    "landfill": 9564.957999999999,
+    "landfill": 9564.958,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.3542273319898682,
+    "landfill_fraction": 0.3542273319898683,
     "customer": "Southwark LB",
     "year": 2012,
     "quarter": "Q3"
@@ -9629,10 +9629,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 24080.011,
+    "total": 24080.010999999995,
     "landfill": 5667.812999999999,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.23537418649850284,
+    "landfill_fraction": 0.23537418649850286,
     "customer": "Southwark LB",
     "year": 2013,
     "quarter": "Q1"
@@ -9823,8 +9823,8 @@
     "quarter": "Q2"
   },
   {
-    "total": 55424.060000000005,
-    "landfill": 29506.310000000005,
+    "total": 55424.06,
+    "landfill": 29506.31,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.5323736658772382,
     "customer": "Staffordshire County Council",
@@ -9841,10 +9841,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 49884.56,
+    "total": 49884.55999999999,
     "landfill": 21992.119999999995,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.44086025816404906,
+    "landfill_fraction": 0.44086025816404917,
     "customer": "Staffordshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -9877,10 +9877,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 1501.16,
+    "total": 1501.1599999999999,
     "landfill": 64.39,
     "num_relevant_questions": 1,
-    "landfill_fraction": 0.042893495696661246,
+    "landfill_fraction": 0.04289349569666125,
     "customer": "Staffordshire Moorlands District Council",
     "year": 2013,
     "quarter": "Q1"
@@ -9963,19 +9963,19 @@
     "quarter": "Q2"
   },
   {
-    "total": 20813.05,
+    "total": 20813.050000000003,
     "landfill": 293.87,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.014119506751773528,
+    "landfill_fraction": 0.014119506751773526,
     "customer": "Stockton-on-Tees Borough Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 17520.79,
+    "total": 17520.789999999997,
     "landfill": 169.15,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.009654245042603673,
+    "landfill_fraction": 0.009654245042603675,
     "customer": "Stockton-on-Tees Borough Council",
     "year": 2012,
     "quarter": "Q4"
@@ -9990,8 +9990,8 @@
     "quarter": "Q1"
   },
   {
-    "total": 25409.42,
-    "landfill": 3922.7400000000002,
+    "total": 25409.419999999995,
+    "landfill": 3922.74,
     "num_relevant_questions": 8,
     "landfill_fraction": 0.15438132786974282,
     "customer": "Stoke-on-Trent City Council",
@@ -10000,16 +10000,16 @@
   },
   {
     "total": 24582.32,
-    "landfill": 2885.95,
+    "landfill": 2885.9500000000003,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.11739941551489037,
+    "landfill_fraction": 0.11739941551489039,
     "customer": "Stoke-on-Trent City Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 22756.969999999998,
-    "landfill": 2744.18,
+    "total": 22756.97,
+    "landfill": 2744.1800000000003,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.12058635222527428,
     "customer": "Stoke-on-Trent City Council",
@@ -10169,19 +10169,19 @@
     "quarter": "Q1"
   },
   {
-    "total": 27381.120000000003,
+    "total": 27381.12,
     "landfill": 14677.48,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.5360438141317813,
+    "landfill_fraction": 0.5360438141317814,
     "customer": "Sunderland City Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 28247.34,
-    "landfill": 16274.310000000001,
+    "total": 28247.340000000004,
+    "landfill": 16274.31,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.5761360184711198,
+    "landfill_fraction": 0.5761360184711196,
     "customer": "Sunderland City Council",
     "year": 2012,
     "quarter": "Q3"
@@ -10286,10 +10286,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 19931.089999999997,
+    "total": 19931.09,
     "landfill": 10793.07,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.5415193047645664,
+    "landfill_fraction": 0.5415193047645663,
     "customer": "Sutton LB",
     "year": 2012,
     "quarter": "Q3"
@@ -10304,10 +10304,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 16904.399999999998,
+    "total": 16904.4,
     "landfill": 9263.95,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.5480200421192116,
+    "landfill_fraction": 0.5480200421192115,
     "customer": "Sutton LB",
     "year": 2013,
     "quarter": "Q1"
@@ -10358,10 +10358,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 16960.055,
+    "total": 16960.054999999997,
     "landfill": 13345.179999999998,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.7868594765759898,
+    "landfill_fraction": 0.78685947657599,
     "customer": "Swindon Borough Council",
     "year": 2012,
     "quarter": "Q3"
@@ -10376,10 +10376,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 11853.899999999998,
+    "total": 11853.9,
     "landfill": 10397.619999999999,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.8771476054294368,
+    "landfill_fraction": 0.8771476054294367,
     "customer": "Swindon Borough Council",
     "year": 2013,
     "quarter": "Q1"
@@ -10555,37 +10555,37 @@
     "quarter": "Q1"
   },
   {
-    "total": 17301.829999999994,
+    "total": 17301.829999999998,
     "landfill": 11918.109999999999,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.6888352272563077,
+    "landfill_fraction": 0.6888352272563075,
     "customer": "Telford and Wrekin Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 17987.399999999998,
+    "total": 17987.4,
     "landfill": 11290.24,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.6276749280051592,
+    "landfill_fraction": 0.6276749280051591,
     "customer": "Telford and Wrekin Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 12610.72,
+    "total": 12610.720000000001,
     "landfill": 11000.84,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.8723403580445843,
+    "landfill_fraction": 0.8723403580445842,
     "customer": "Telford and Wrekin Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
     "total": 14448.399999999998,
-    "landfill": 12708.63,
+    "landfill": 12708.629999999997,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.8795873591539548,
+    "landfill_fraction": 0.8795873591539547,
     "customer": "Telford and Wrekin Council",
     "year": 2013,
     "quarter": "Q1"
@@ -10767,7 +10767,7 @@
     "quarter": "Q1"
   },
   {
-    "total": 16255.712,
+    "total": 16255.712000000001,
     "landfill": 5335.142,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.3282010655700593,
@@ -10794,7 +10794,7 @@
     "quarter": "Q4"
   },
   {
-    "total": 13951.375,
+    "total": 13951.375000000002,
     "landfill": 2198.63,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.1575923520083146,
@@ -10835,10 +10835,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 12565.47,
+    "total": 12565.470000000001,
     "landfill": 9247.62,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.7359549622895125,
+    "landfill_fraction": 0.7359549622895124,
     "customer": "Torbay Council",
     "year": 2012,
     "quarter": "Q2"
@@ -10862,10 +10862,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 10703.420000000002,
+    "total": 10703.42,
     "landfill": 8317.18,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.7770581739294542,
+    "landfill_fraction": 0.7770581739294543,
     "customer": "Torbay Council",
     "year": 2013,
     "quarter": "Q1"
@@ -10903,10 +10903,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 25149.1,
+    "total": 25149.099999999995,
     "landfill": 6264.000000000001,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.2490745195653125,
+    "landfill_fraction": 0.24907451956531257,
     "customer": "Tower Hamlets LB",
     "year": 2012,
     "quarter": "Q2"
@@ -10931,9 +10931,9 @@
   },
   {
     "total": 23139.449999999997,
-    "landfill": 3330.64,
+    "landfill": 3330.6399999999994,
     "num_relevant_questions": 9,
-    "landfill_fraction": 0.143937734042944,
+    "landfill_fraction": 0.14393773404294397,
     "customer": "Tower Hamlets LB",
     "year": 2013,
     "quarter": "Q1"
@@ -11084,9 +11084,9 @@
   },
   {
     "total": 16122.239999999998,
-    "landfill": 4154.6900000000005,
+    "landfill": 4154.69,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.25769930233019733,
+    "landfill_fraction": 0.2576993023301973,
     "customer": "Wakefield City MDC",
     "year": 2012,
     "quarter": "Q2"
@@ -11110,8 +11110,8 @@
     "quarter": "Q4"
   },
   {
-    "total": 30135.460000000003,
-    "landfill": 25754.670000000002,
+    "total": 30135.46,
+    "landfill": 25754.67,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.8546300604006044,
     "customer": "Wakefield City MDC",
@@ -11128,10 +11128,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 29775.319999999996,
+    "total": 29775.32,
     "landfill": 14799.08,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.4970250529633267,
+    "landfill_fraction": 0.49702505296332666,
     "customer": "Walsall MBC",
     "year": 2012,
     "quarter": "Q3"
@@ -11236,10 +11236,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 18697.62,
+    "total": 18697.620000000003,
     "landfill": 13320.94,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.7124404068539205,
+    "landfill_fraction": 0.7124404068539204,
     "customer": "Warrington Borough Council",
     "year": 2012,
     "quarter": "Q3"
@@ -11308,28 +11308,28 @@
     "quarter": "Q2"
   },
   {
-    "total": 42503.04000000001,
-    "landfill": 24247.850000000002,
+    "total": 42503.04,
+    "landfill": 24247.850000000006,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.5704968397554622,
+    "landfill_fraction": 0.5704968397554623,
     "customer": "Warwickshire County Council",
     "year": 2012,
     "quarter": "Q3"
   },
   {
     "total": 72129.39,
-    "landfill": 19555.57,
+    "landfill": 19555.570000000003,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.2711179173981646,
+    "landfill_fraction": 0.27111791739816465,
     "customer": "Warwickshire County Council",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 29264.98,
+    "total": 29264.979999999996,
     "landfill": 10832.310000000001,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.37014581933765206,
+    "landfill_fraction": 0.3701458193376521,
     "customer": "Warwickshire County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -11570,10 +11570,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 13516.739999999998,
+    "total": 13516.74,
     "landfill": 2961.16,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.21907353400302146,
+    "landfill_fraction": 0.21907353400302143,
     "customer": "West Berkshire District Council",
     "year": 2013,
     "quarter": "Q1"
@@ -11684,16 +11684,16 @@
   },
   {
     "total": 88317.04000000001,
-    "landfill": 69884.51000000002,
+    "landfill": 69884.51000000001,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.7912913521558242,
+    "landfill_fraction": 0.7912913521558241,
     "customer": "West London Waste Authority",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 96760.43999999997,
-    "landfill": 76707.54999999997,
+    "total": 96760.44000000002,
+    "landfill": 76707.55,
     "num_relevant_questions": 7,
     "landfill_fraction": 0.7927573500079164,
     "customer": "West London Waste Authority",
@@ -11702,9 +11702,9 @@
   },
   {
     "total": 84612.1,
-    "landfill": 61485.74,
+    "landfill": 61485.73999999999,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.7266778628588582,
+    "landfill_fraction": 0.726677862858858,
     "customer": "West London Waste Authority",
     "year": 2012,
     "quarter": "Q4"
@@ -11796,8 +11796,8 @@
     "quarter": "Q2"
   },
   {
-    "total": 42452.55999999999,
-    "landfill": 9317.24,
+    "total": 42452.56,
+    "landfill": 9317.240000000002,
     "num_relevant_questions": 5,
     "landfill_fraction": 0.21947416127555092,
     "customer": "West Sussex County Council",
@@ -11815,9 +11815,9 @@
   },
   {
     "total": 24183.819999999996,
-    "landfill": 9731.279999999999,
+    "landfill": 9731.28,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.402388042914643,
+    "landfill_fraction": 0.40238804291464303,
     "customer": "West Sussex County Council",
     "year": 2013,
     "quarter": "Q1"
@@ -11868,10 +11868,10 @@
     "quarter": "Q2"
   },
   {
-    "total": 19795.760000000006,
+    "total": 19795.760000000002,
     "landfill": 2598.22,
     "num_relevant_questions": 4,
-    "landfill_fraction": 0.13125133867050312,
+    "landfill_fraction": 0.13125133867050315,
     "customer": "Westminster City Council",
     "year": 2012,
     "quarter": "Q3"
@@ -11895,10 +11895,10 @@
     "quarter": "Q1"
   },
   {
-    "total": 32659.84,
+    "total": 32659.840000000004,
     "landfill": 9261.329,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.28356933163175324,
+    "landfill_fraction": 0.2835693316317532,
     "customer": "Wigan MBC",
     "year": 2012,
     "quarter": "Q2"
@@ -11922,46 +11922,46 @@
     "quarter": "Q4"
   },
   {
-    "total": 27553.12,
+    "total": 27553.119999999995,
     "landfill": 4843.375,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.17578317809380573,
+    "landfill_fraction": 0.17578317809380575,
     "customer": "Wigan MBC",
     "year": 2013,
     "quarter": "Q1"
   },
   {
     "total": 29153.3,
-    "landfill": 1754.8300000000004,
+    "landfill": 1754.83,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.060193185677093176,
+    "landfill_fraction": 0.060193185677093156,
     "customer": "Wiltshire",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 32509.91,
+    "total": 32509.910000000003,
     "landfill": 2337.89,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.07191314894442956,
+    "landfill_fraction": 0.07191314894442954,
     "customer": "Wiltshire",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 26552.289999999997,
+    "total": 26552.29,
     "landfill": 1762.9499999999998,
     "num_relevant_questions": 7,
-    "landfill_fraction": 0.0663954031836802,
+    "landfill_fraction": 0.06639540318368019,
     "customer": "Wiltshire",
     "year": 2012,
     "quarter": "Q4"
   },
   {
-    "total": 20171.300000000003,
+    "total": 20171.3,
     "landfill": 1371.9500000000003,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.06801495193666249,
+    "landfill_fraction": 0.0680149519366625,
     "customer": "Wiltshire",
     "year": 2013,
     "quarter": "Q1"
@@ -12111,19 +12111,19 @@
     "quarter": "Q1"
   },
   {
-    "total": 13101.29,
+    "total": 13101.290000000003,
     "landfill": 728.08,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.05557315348335927,
+    "landfill_fraction": 0.05557315348335926,
     "customer": "Wokingham Council",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 14104.06,
+    "total": 14104.060000000001,
     "landfill": 3187.2700000000004,
     "num_relevant_questions": 6,
-    "landfill_fraction": 0.22598244760728475,
+    "landfill_fraction": 0.22598244760728473,
     "customer": "Wokingham Council",
     "year": 2012,
     "quarter": "Q3"
@@ -12138,7 +12138,7 @@
     "quarter": "Q4"
   },
   {
-    "total": 12121.58,
+    "total": 12121.579999999998,
     "landfill": 1825.3600000000001,
     "num_relevant_questions": 6,
     "landfill_fraction": 0.15058762966543968,
@@ -12148,27 +12148,27 @@
   },
   {
     "total": 30151.740000000005,
-    "landfill": 5947.330000000001,
+    "landfill": 5947.33,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.19724665972842695,
+    "landfill_fraction": 0.19724665972842692,
     "customer": "Wolverhampton MBC",
     "year": 2012,
     "quarter": "Q2"
   },
   {
-    "total": 32125.79,
+    "total": 32125.789999999997,
     "landfill": 7362.39,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.22917381953875687,
+    "landfill_fraction": 0.2291738195387569,
     "customer": "Wolverhampton MBC",
     "year": 2012,
     "quarter": "Q3"
   },
   {
-    "total": 26634.44,
-    "landfill": 1303.3,
+    "total": 26634.440000000002,
+    "landfill": 1303.2999999999997,
     "num_relevant_questions": 8,
-    "landfill_fraction": 0.04893288539199623,
+    "landfill_fraction": 0.048932885391996216,
     "customer": "Wolverhampton MBC",
     "year": 2012,
     "quarter": "Q4"
@@ -12461,10 +12461,10 @@
     "quarter": "Q4"
   },
   {
-    "total": 19443.559999999998,
+    "total": 19443.56,
     "landfill": 12854.310000000001,
     "num_relevant_questions": 5,
-    "landfill_fraction": 0.6611088710092187,
+    "landfill_fraction": 0.6611088710092184,
     "customer": "York City Council",
     "year": 2013,
     "quarter": "Q1"
